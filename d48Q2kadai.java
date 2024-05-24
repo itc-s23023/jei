@@ -1,3 +1,6 @@
+// s23023
+// ポリモフィズムの課題
+
 class Animal {
     public void makeSound() {
         System.out.println("動物の音");
@@ -22,7 +25,7 @@ class Cat extends Animal {
 public class d48Q2kadai {
     public static void main(String[] args) {
         Animal a = new Dog();
-         a.makeSound();
+        a.makeSound();
         a.test();
         Animal b = new Cat();
         b.makeSound();
