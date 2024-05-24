@@ -1,5 +1,5 @@
 // s23023
-//
+// printさせる
 
 class d48Q23kadai {
     public static void main(String[] args) {
